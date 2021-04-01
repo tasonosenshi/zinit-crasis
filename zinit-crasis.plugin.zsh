@@ -1,6 +1,6 @@
 #
 # No plugin manager is needed to use this file. All that is needed is adding:
-#   source {where-crasis-is}/zplugin-crasis.plugin.zsh
+#   source {where-crasis-is}/zinit-crasis.plugin.zsh
 #
 # to ~/.zshrc.
 #
@@ -14,7 +14,7 @@ fi
 
 #
 # Update FPATH if:
-# 1. Not loading with Zplugin
+# 1. Not loading with Zinit
 # 2. Not having fpath already updated (that would equal: using other plugin manager)
 #
 
